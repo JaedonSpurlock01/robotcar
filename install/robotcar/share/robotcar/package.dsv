@@ -1,0 +1,8 @@
+source;share/robotcar/hook/cmake_prefix_path.ps1
+source;share/robotcar/hook/cmake_prefix_path.dsv
+source;share/robotcar/hook/cmake_prefix_path.sh
+source;share/robotcar/local_setup.bash
+source;share/robotcar/local_setup.dsv
+source;share/robotcar/local_setup.ps1
+source;share/robotcar/local_setup.sh
+source;share/robotcar/local_setup.zsh
